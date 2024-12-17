@@ -1,6 +1,6 @@
 # cron-bitquery
 
-- Implements a Bitquery API integration to track the largest whale accounts and on the Binance network.
+- Implements a Bitquery API integration to track the largest whale accounts and transactions on the Binance network.
 - Ensures the backend supports real-time monitoring of accounts and transaction, updating the data at regular intervals using a cron job.
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
