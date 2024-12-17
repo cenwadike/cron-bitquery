@@ -10,6 +10,7 @@
 - MONGODB_URI: MongoDB connection URL
 - APP_PORT: Should match docker exposed ports
 - INITIAL_INTERVAL: Initial cron job interval
+- TOKEN_ADDRESS: Updatable token address to monitor whales
 - BIT_QUERY_TOKEN: Bitquery API V2 token.
 
 ### Set up
